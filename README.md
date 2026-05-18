@@ -1,2 +1,2 @@
-# eventsapp
-K8s training demo
+# eventsappstart
+This is a simple events app
